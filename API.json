@@ -1,0 +1,41 @@
+{
+    "dataPeople":[
+        {
+            "id":1,
+            "name":"mhamad",
+            "description":"LIU CS" 
+            
+        },
+        {
+            "id":2,
+            "name":"Azzam",
+            "description":"BAU CS" 
+            
+        },
+        {
+            "id":3,
+            "name":"mhmd",
+            "description":"mechanical eng" 
+            
+        },
+        {
+            "id":4,
+            "name":"Rony",
+            "description":"Full Stack Coach" 
+            
+        },
+        {
+            "id":5,
+            "name":"Hassan",
+            "description":"LIU CS" 
+            
+        },
+        {
+            "id":6,
+            "name":"yousef",
+            "description":"LU CS" 
+            
+        }
+      
+    ]
+}
